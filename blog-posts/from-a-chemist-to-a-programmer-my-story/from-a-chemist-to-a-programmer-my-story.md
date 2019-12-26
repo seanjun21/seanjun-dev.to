@@ -1,7 +1,7 @@
 ---
 published: true
 title: "From a Chemist to a Programmer  -  My Story"
-cover_image: "https://raw.githubusercontent.com/seanjun21/seanjun-dev.to/master/blog-posts/from-a-chemist-to-a-programmer-my-story/assets/experiment.jpeg"
+cover_image: "https://raw.githubusercontent.com/seanjun21/seanjun-dev.to/master/blog-posts/from-a-chemist-to-a-programmer-my-story/assets/chemistry.jpeg"
 description: "The story of how I turned my life around"
 tags: career, webdev
 series:
