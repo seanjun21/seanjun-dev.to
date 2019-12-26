@@ -10,7 +10,7 @@ canonical_url:
 
 # October 2015
 
-It was a really tough time for me. I had two degrees - B.S. in Biochemistry and M.S. in Biomaterial Science - but I wasn't doing well as a Chemist. My wage was barely \$15/hr. I was demoted to a part-time position due to a financial crisis at the company. Later found out I was making roughly 16K. Most jobs I had prior to this was voluntary work (no-pay school research) as well. I guess that's when I thought, "well, this is it. I quit."
+It was a really tough time for me. I had two degrees - B.S. in Biochemistry and M.S. in Biomaterial Science - but I wasn't doing well as a Chemist. My wage was barely 15/hr. I was demoted to a part-time position due to a financial crisis at the company. Later found out I was making roughly 16K. Most jobs I had prior to this was voluntary work (no-pay school research) as well. I guess that's when I thought, "well, this is it. I quit."
 
 One night after work, I started writing random thoughts on a whiteboard:
 
@@ -25,7 +25,7 @@ Well, I was 29, so becoming a professional player in either field seemed almost 
 
 ---
 
-![](https://thepracticaldev.s3.amazonaws.com/i/o9tu87e51p4df0narass.jpeg)
+![](./assets/game-controllers.jpeg)
 
 # November 2015
 
@@ -37,7 +37,7 @@ I decided to take it more seriously. After finishing Codecademy's JavaScript sta
 
 ---
 
-![](https://thepracticaldev.s3.amazonaws.com/i/smssd21h0yecy6n3bi3j.jpeg)
+![](./assets/married.jpeg)
 
 # March 2016
 
@@ -49,11 +49,11 @@ My wife was staying in Korea after the marriage ceremony. She had to wait for he
 
 # April - June 2016
 
-Well, my plan of making a transition in 8 months got sabotaged when I failed to get into Hack Reactor (popular Bootcamp in SF) twice in a row. I was quite frustrated at this point with the decisions I made - quitting a Chemist job, paying \$700 for a Bootcamp prep course, etc. Turns out the best thing I did was taking that Hack Reactor prep course because I made some friends who eventually introduced me to this another Bootcamp. They had a much lenient way of accepting students, and everything else - price, online setting, timing - felt perfect for my needs. I enrolled right away.
+Well, my plan of making a transition in 8 months got sabotaged when I failed to get into Hack Reactor (popular Bootcamp in SF) twice in a row. I was quite frustrated at this point with the decisions I made - quitting a Chemist job, paying 700 for a Bootcamp prep course, etc. Turns out the best thing I did was taking that Hack Reactor prep course because I made some friends who eventually introduced me to this another Bootcamp. They had a much lenient way of accepting students, and everything else - price, online setting, timing - felt perfect for my needs. I enrolled right away.
 
 ---
 
-![](https://thepracticaldev.s3.amazonaws.com/i/z2zcctnem2g3ay1fhu23.jpeg)
+![](./assets/dbz.jpeg)
 
 # June - October 2016
 
@@ -61,7 +61,7 @@ During this time, I felt like Goku in the hyperbolic chamber. The course schedul
 
 > "You are pretty much worthless."
 
-I guess he (my friend's boss) was right. I mean, they were looking for a C# developer and I was this JavaScript guy with no ASP .NET background. But, still… that hurt me.
+I guess he (my friend's boss) was right. I mean, they were looking for a C# developer and I was this JavaScript guy with no ASP.NET background. But, still… that hurt me.
 
 # October - November 2016
 
@@ -73,7 +73,7 @@ I remember following an even more strict study plan than the Bootcamp. Of the in
 
 ---
 
-![](https://thepracticaldev.s3.amazonaws.com/i/ao8d866g85j1aqvold5z.jpeg)
+![](./assets/apex.jpeg)
 
 # November - December 2016 (The End)
 
@@ -93,7 +93,7 @@ Honestly, it took me like a good few hours to figure out that it wasn't like an 
 
 ---
 
-![](https://thepracticaldev.s3.amazonaws.com/i/3htzlf7fv6s0sn9pmknx.jpeg)
+![](./assets/laptop.jpeg)
 
 # December 2016 - Now (Epilogue)
 
