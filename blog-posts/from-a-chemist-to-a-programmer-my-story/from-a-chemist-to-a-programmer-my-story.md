@@ -1,7 +1,7 @@
 ---
 published: true
 title: "From a Chemist to a Programmer  -  My Story"
-cover_image: "./assets/chemistry.jpeg"
+cover_image: "./assets/experimenting.jpeg"
 description: "The story of how I turned my life around"
 tags: career, webdev
 series:
