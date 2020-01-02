@@ -3,12 +3,12 @@ published: true
 title: "From a Chemist to a Programmer  -  My Story"
 cover_image: "https://raw.githubusercontent.com/seanjun21/seanjun-dev.to/master/blog-posts/from-a-chemist-to-a-programmer-my-story/assets/chemistry-experiment.jpeg"
 description: "The story of how I turned my life around"
-tags: career, webdev
+tags: career, web-dev
 series:
 canonical_url:
 ---
 
-# October 2015
+## October 2015
 
 It was a really tough time for me. I had two degrees - B.S. in Biochemistry and M.S. in Biomaterial Science - but I wasn't doing well as a Chemist. My wage was barely 15/hr. I was demoted to a part-time position due to a financial crisis at the company. Later found out I was making roughly 16K. Most jobs I had prior to this was voluntary work (no-pay school research) as well. I guess that's when I thought, "well, this is it. I quit."
 
@@ -25,21 +25,21 @@ Well, I was 29, so becoming a professional player in either field seemed almost 
 
 ---
 
-![](./assets/game-controllers.jpeg)
+![game-controllers](./assets/game-controllers.jpeg)
 
-# November 2015
+## November 2015
 
 That's how it started. I purchased my first programming course, "Learn to Code by Making Games - Complete C# Unity Developer" from Udemy by Ben Tristem. The very first program (or game) I built was a text adventure game. After about a month of game development, I admitted that this - programming - is more fun than my actual job.
 
-# December 2015 - February 2016
+## December 2015 - February 2016
 
 I decided to take it more seriously. After finishing Codecademy's JavaScript stack, I began looking for much harder schools or programs to take. Udacity's Introduction to Programming and Front End Nano-degrees came next. I think that's when I first heard of the concept "Coding Bootcamp." It is also this moment, that I thought about quitting my job and go full-time on learning to code.
 
 ---
 
-![](./assets/married.jpeg)
+![married](./assets/married.jpeg)
 
-# March 2016
+## March 2016
 
 Ironically, I was getting married around this time. I remember telling (almost confessing) my wife the day before the wedding that I am quitting my job and pursuing a new career. She still married me (!) and simply said,
 
@@ -47,15 +47,15 @@ Ironically, I was getting married around this time. I remember telling (almost c
 
 My wife was staying in Korea after the marriage ceremony. She had to wait for her Spouse Visa to process and that usually takes about 8 months. So, I thought 4–5 months of Bootcamp + 3 months of job searching = will get me a job in perfect timing.
 
-# April - June 2016
+## April - June 2016
 
 Well, my plan of making a transition in 8 months got sabotaged when I failed to get into Hack Reactor (popular Bootcamp in SF) twice in a row. I was quite frustrated at this point with the decisions I made - quitting a Chemist job, paying 700 for a Bootcamp prep course, etc. Turns out the best thing I did was taking that Hack Reactor prep course because I made some friends who eventually introduced me to this another Bootcamp. They had a much lenient way of accepting students, and everything else - price, online setting, timing - felt perfect for my needs. I enrolled right away.
 
 ---
 
-![](./assets/dbz.jpeg)
+![dbz](./assets/dbz.jpeg)
 
-# June - October 2016
+## June - October 2016
 
 During this time, I felt like Goku in the hyperbolic chamber. The course schedule went from 7 AM to 3 PM. Then, after a personal mentor session, it was back to studying again until 2 AM. Weekends were time to catch up on things I missed during the week. My parents were incredibly supportive both financially and emotionally. I dedicated the entire 4 months on nothing but programming - no friends, no soccer, no sun (okay, maybe not that). I graduated on October 7th of 2016. The very next day, (excited) I went to a career fair nearby and that's when I heard:
 
@@ -63,7 +63,7 @@ During this time, I felt like Goku in the hyperbolic chamber. The course schedul
 
 I guess he (my friend's boss) was right. I mean, they were looking for a C# developer and I was this JavaScript guy with no ASP.NET background. But, still… that hurt me.
 
-# October - November 2016
+## October - November 2016
 
 I canceled all my short travel plans and began buying a load of programming books.
 
@@ -73,9 +73,9 @@ I remember following an even more strict study plan than the Bootcamp. Of the in
 
 ---
 
-![](./assets/apex.jpeg)
+![apex](./assets/apex.jpeg)
 
-# November - December 2016 (The End)
+## November - December 2016 (The End)
 
 HRs are humans too. They eat turkeys and they forget about you. At least that's how I wanted to believe. Of the 9 ongoing interviews, everything got dropped. No one responded to my follow-up emails. I had a tech home challenge that asked me to build a stack. Took me a day to finish, but no response. I began to feel sorry for my wife. She left her family and friends to live in a foreign land (where she can't even speak fluently) and I failed.
 
@@ -93,9 +93,9 @@ Honestly, it took me like a good few hours to figure out that it wasn't like an 
 
 ---
 
-![](./assets/laptop.jpeg)
+![laptop](./assets/laptop.jpeg)
 
-# December 2016 - Now (Epilogue)
+## December 2016 - Now (Epilogue)
 
 My contract for the corporate was extended to full length due to my performance. I ended up buying a ~2000 sqft house in a beautiful town. I moved onto a different company (much smaller, but stable) and I've been working as a Software Engineer for a little over 2 years now.
 
